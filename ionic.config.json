@@ -1,0 +1,8 @@
+{
+  "name": "tvstreaming",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c6e47094"
+}
